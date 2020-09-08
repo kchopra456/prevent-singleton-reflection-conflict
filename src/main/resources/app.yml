@@ -1,0 +1,8 @@
+mockSystemVariable: 1
+
+xRules:
+  xRegex: "[a-z]*"
+  xMapping:
+    ap_: Apple
+    goog: Google
+    TSL: Tesla
